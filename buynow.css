@@ -1,0 +1,186 @@
+body {
+  background: url(pics/pic.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  margin: 0;
+  cursor: pointer;
+}
+
+li {
+  display: inline-block;
+  margin: 10px;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.home {
+  font-size: 40px;
+}
+
+.abtn {
+  color: white;
+}
+
+.abtn:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+h1,
+h3,h5 {
+  color: white;
+}
+
+.abtn:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.abtn:hover {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.abtn:active {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+img:hover {
+  transform: scale(1.1);
+}
+
+.order {
+  width: 100%;
+  display: flex;
+}
+
+.order-left {
+  width: 50%;
+  text-align: center;
+}
+
+.order-right {
+  width: 50%;
+}
+
+.checked {
+  color: orange;
+}
+del{
+ 
+  font-size: 20px;
+}
+.minus,
+.plus {
+  border: 1px solid white;
+  width: 20px;
+  height: 20px;
+  background: #f2f2f2;
+  padding: 5px 5px 5px 5px;
+  border-radius:4px;
+  text-align: center;
+}
+input{
+  height:34px;
+  width: 100px;
+  text-align: center;
+  font-size: 26px;
+  border:1px solid #ddd;
+  border-radius:4px;
+}
+.btn-danger{
+  width:60% ;
+  background-color: none;
+}
+.loged {
+  float: right;
+}
+
+.card {
+  margin: 20px;
+}
+
+.shirt-card {
+  display: flex;
+  justify-content: center;
+}
+
+.shirt {
+  color: white;
+  margin-bottom: 40px;
+}
+
+.shop {
+  font-size: 2rem;
+}
+
+div>hr {
+  width: 150px;
+  opacity: 10;
+}
+
+.buffer {
+  display: flex;
+  justify-content: center;
+  color: white;
+}
+
+.footer {
+  color: white;
+}
+
+.card-text {
+  text-transform: capitalize;
+}
+
+.btn-primary {
+  background-color: white;
+}
+img{
+  text-align: center;
+}
+img:hover {
+  transform: scale(1.1);
+}
+.sliderr{
+  display: flex;
+  justify-content: center;
+}
+#del{
+  color: white;
+}
+h1{
+  text-transform: capitalize;
+}
+.btn-danger:hover{
+  transform: scale(1.2);
+}

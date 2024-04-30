@@ -1,0 +1,92 @@
+
+
+li {
+    display: inline-block;
+    margin: 10px;
+}
+
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a {
+    font-size: 20px;
+}
+
+.loged {
+    float: right;
+}
+
+.card {
+    margin: 20px;
+}
+
+.shirt-card {
+    display: flex;
+    justify-content: center;
+}
+
+.shirt {
+    color: white;
+    margin-bottom: 40px;
+}
+
+.shop {
+    font-size: 2rem;
+}
+
+div>hr {
+    width: 150px;
+    opacity: 10;
+}
+
+.buffer {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+.footer {
+    color: white;
+}
+
+.card-text {
+    text-transform: capitalize;
+}
+
+.btn-primary {
+    background-color: white;
+}
+img{
+    text-align: center;
+}
+img:hover {
+    transform: scale(1.1);
+}
+.sliderr{
+    display: flex;
+    justify-content: center;
+}
+.btn-danger:hover{
+    transform: scale(1.2);
+}

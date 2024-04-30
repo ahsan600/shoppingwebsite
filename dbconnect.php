@@ -1,0 +1,10 @@
+<?php
+$server="localhost";
+$username="root";
+$password="";
+$db='ahsan';
+$con=mysqli_connect($server,$username,$password,$db);
+if(!$con){
+    die("Failed".mysqli_connect_error());
+}
+?>
